@@ -1,0 +1,15 @@
+.bannersContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin: 1rem;
+}
+
+.harmonogram {
+    margin: 0 3rem;
+}
+
+.title {
+    text-align: center;
+}

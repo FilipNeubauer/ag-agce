@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    margin: 0;
+}
+
+.hr {
+    width: 90%;
+}
+
+.mainDescription {
+    margin: 0 1.5rem;
+    text-align: justify;
+}
+
+.link {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 3rem;
+}

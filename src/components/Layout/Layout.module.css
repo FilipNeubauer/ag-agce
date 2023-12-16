@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.back {
+    position: absolute;
+    top: 1.5rem;
+    left: 1rem;
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.pageContainer {
+    flex: 1;
+}
