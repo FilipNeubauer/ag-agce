@@ -14,7 +14,7 @@ export const HomePage = () => {
             <div>
                 <h1 className={styles.title}>Harmonogram dne:</h1>
                 <div className={styles.harmonogram}>
-                    <p><b>1. a 2. hodina:</b> výuka dle standratního rozvrhu</p>
+                    <p><b>1. a 2. hodina:</b> výuka dle standardního rozvrhu</p>
                     <p><b>3. - 5. hodina:</b> akce</p>
                     <p><b>6. hodina:</b> třídnické s TU v kmenových třídách, kontrola docházky</p>
                     <p><b>7. - 9. hodina:</b> odpadá</p>
