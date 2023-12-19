@@ -7,6 +7,11 @@ import { Filmy } from './pages/Filmy/Filmy'
 import { Vymenik } from './pages/Vymenik/Vymenik'
 import { Hudebka } from './pages/Hudebka/Hudebka'
 import { Support } from './pages/Support/Support'
+import { Literatura } from './pages/Literatura/Literatura'
+import { Art } from './pages/Art/Art'
+import { Deskovky } from './pages/Deskovky/Deskovky'
+import { Kahoot } from './pages/Kahoot/Kahoot'
+import { Prednasky } from './pages/Prednasky/Prednasky'
 
 function App() {
 
@@ -38,6 +43,26 @@ function App() {
     {
       path: "/support",
       element: <Support />
+    },
+    {
+      path: "/literatura",
+      element: <Literatura />
+    },
+    {
+      path: "/art",
+      element: <Art />
+    },
+    {
+      path: "/deskovky",
+      element: <Deskovky />
+    },
+    {
+      path: "/kahoot",
+      element: <Kahoot />
+    },
+    {
+      path: "/prednasky",
+      element: <Prednasky />
     }
   ])
 

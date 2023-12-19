@@ -8,6 +8,8 @@ export const Tancirna = () => {
             <hr className={styles.hr} />
             <p className={styles.mainDescription}>
             Pokud dorazíte do velké tělocvičny, budete si moct společně se svými přáteli pořádně zatancovat mnoho různých tanců. Pokud máte pocit, že vám tancování nejde, vůbec se nebojte, cílem je se pouze dobře bavit a v tancích se zdokonalit!
+            <br/><br/>
+            Tancování různých tanců, pouštění písniček a ke konci vánoční FREESTYLE!
             </p>
         </div>
     )

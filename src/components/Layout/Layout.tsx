@@ -36,7 +36,9 @@ export const Layout = ({ children }: Props) => {
             {children}
 
             <footer className={styles.footer}>
-                created by Filip Neubauer
+                <p>
+                    Vytvořil Fíla Neubauer ❤️
+                </p>
             </footer>
         </>
     )

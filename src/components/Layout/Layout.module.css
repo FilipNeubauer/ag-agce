@@ -12,6 +12,14 @@
 
 .footer {
     margin-top: auto;
+    margin-bottom: 2rem;
+}
+
+.footer p {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 2rem;
+
 }
 
 .pageContainer {

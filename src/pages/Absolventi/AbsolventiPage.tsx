@@ -26,8 +26,7 @@ export const AbsolventiPage = () => {
             <hr className={styles.hr} />
 
             <p className={styles.mainDescription}>
-            V učebnách 111 až 114 budou absolventi AG představovat své vysoké školy. Dají vám tipy, jak zvládnout studium na AG, jak si vybrat VŠ a jaké to je během zkouškového… Absolventi jsou z ročníků 2022 a starší, aby za sebou měli zkouškové a bylo to přínosné.
-            Absolventi nic neprezentují před celým publikem, můžete za nimi zajít a zeptat se jich na cokoli vás zajímá, rádi si s vámi popovídají!
+            V učebnách 111 až 114 budou absolventi AG představovat své vysoké školy. Dají vám tipy, jak zvládnout studium na AG, jak si vybrat VŠ apod. Absolventi nic neprezentují před celým publikem, můžete za nimi zajít a zeptat se jich na cokoli vás zajímá, rádi si s vámi popovídají!
             </p>
 
             <div className={styles.classesContainer}>
@@ -56,7 +55,7 @@ const ClassRoom = ({ classNumber }: ClassRoomProps) => {
                 <h2 className={styles.classTitle}>{classNumber}</h2>
             </Paper>
             <p>
-            saldjkasjdlkas jlkpdjask dhas
+            Připravujeme seznam absolventů do učebny {classNumber}.
             </p>
         </div>
     )

@@ -23,11 +23,17 @@ export const HomePage = () => {
             </div>
 
             <div className={styles.bannersContainer}>
-                <HomeBanner title="Absolventi" subtitle="111 - 114" href="/absolventi"/>   
-                <HomeBanner title="Tančírna" subtitle="VT" href="/tancirna" />    
-                <HomeBanner title="Filmy" subtitle="301, 303" href="/filmy" />
-                <HomeBanner title="Výměník" subtitle="211" href="/vymenik"/>
-                <HomeBanner title="Hudebka" subtitle="212" href="/hudebka"/>
+                <HomeBanner title="Absolventi" subtitle="111 - 114" href="/absolventi" emoji="🙎‍♂️"/>   
+                <HomeBanner title="Tančírna" subtitle="tělocvičny" href="/tancirna" emoji="💃" />    
+                <HomeBanner title="Filmy" subtitle="301, 303" href="/filmy" emoji="🖥️" />
+                <HomeBanner title="Výměník" subtitle="211" href="/vymenik" emoji="🧸"/>
+                <HomeBanner title="Hudebka" subtitle="212" href="/hudebka" emoji="🎤"/>
+                <HomeBanner title="Akademické literární doupě" subtitle="201" href="/literatura" emoji="📚" />
+                <HomeBanner title="Umělecké křídlo" subtitle="203" href="/art" emoji="🎨" />
+                <HomeBanner title="Deskovky" subtitle="007" href="/deskovky" emoji="🎲" />
+                <HomeBanner title="Kahoot kvíz o škole" subtitle="411" href="/kahoot" emoji="🤯" />
+                <HomeBanner title="Přednášky + promítání" subtitle="214 a 304" href="/prednasky" emoji="🎥" />
+
                 <HomeBanner title="Na koho se obrátit?" href="/support"/>
 
             </div>

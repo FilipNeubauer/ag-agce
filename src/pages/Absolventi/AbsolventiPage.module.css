@@ -10,6 +10,7 @@
 .mainDescription {
     margin: 0 1.5rem;
     text-align: justify;
+    line-height: 1.5rem;
 }
 
 .classesContainer {
