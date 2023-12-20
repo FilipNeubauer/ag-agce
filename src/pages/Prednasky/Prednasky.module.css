@@ -12,3 +12,22 @@
     text-align: justify;
     line-height: 1.5rem;
 }
+
+.classesContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.classTitle {
+    margin: 1rem;
+}
+
+.classContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 1.5rem;
+}

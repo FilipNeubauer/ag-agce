@@ -13,3 +13,9 @@
 .title {
     text-align: center;
 }
+
+@media (min-width: 767px) {
+    .harmonogram {
+        margin: 0 30%;
+    }
+  }

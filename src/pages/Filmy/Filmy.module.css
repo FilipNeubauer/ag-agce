@@ -11,3 +11,22 @@
     margin: 0 1.5rem;
     text-align: justify;
 }
+
+.classesContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.classTitle {
+    margin: 1rem;
+}
+
+.classContainer {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

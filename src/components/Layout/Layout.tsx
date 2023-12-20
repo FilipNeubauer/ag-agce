@@ -28,7 +28,7 @@ export const Layout = ({ children }: Props) => {
             }
 
             <Link to="/">
-                <img src={Logo} height={150}/>
+                <img src={Logo} height={150} className={styles.logo}/>
             </Link>
 
             </nav>

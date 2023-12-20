@@ -22,7 +22,7 @@ export const AbsolventiPage = () => {
 
     return (
         <div>
-            <h1 className={styles.title}>Absolventi 111 - 114</h1>
+            <h1 className={styles.title}>Absolventi 111&ndash;114</h1>
             <hr className={styles.hr} />
 
             <p className={styles.mainDescription}>
